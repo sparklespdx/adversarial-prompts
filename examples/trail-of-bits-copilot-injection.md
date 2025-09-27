@@ -77,7 +77,7 @@ The attack works by exploiting Copilot's context-aware code generation:
 
 ## Visual Example
 
-![Trail of Bits Copilot Injection Example](../images/trail-of-bits-copilot-injection-placeholder.txt)
+![Trail of Bits Copilot Injection Example](../images/trail-of-bits-copilot-injection.png)
 
 *Screenshot showing the malicious comment injection and resulting Copilot suggestions*
 

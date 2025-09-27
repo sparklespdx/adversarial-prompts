@@ -62,8 +62,8 @@ adversarial-prompts/
 
 We welcome contributions of new examples, improvements to existing documentation, and additional research findings. Please see our contribution guidelines:
 
-1. **Format**: Follow the existing markdown template structure
-2. **Images**: Include relevant screenshots in the `/images` directory
+1. **Format**: Follow the existing markdown template structure ([see template](docs/example-template.md))
+2. **Images**: Include relevant screenshots in the `/images` directory ([see guide](docs/adding-images.md))
 3. **Ethics**: Ensure your contribution follows ethical disclosure practices
 4. **Documentation**: Provide clear explanations and mitigation strategies
 

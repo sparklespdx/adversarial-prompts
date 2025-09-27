@@ -16,4 +16,5 @@ This directory contains screenshots, diagrams, and other visual assets used in t
 
 ## Current Images
 
-- `trail-of-bits-copilot-injection.png` - Screenshot of the Trail of Bits Copilot injection example
+- `trail-of-bits-copilot-injection.png` - Screenshot of the Trail of Bits Copilot injection example (to be added)
+- `placeholder-instructions.md` - Instructions for adding images
