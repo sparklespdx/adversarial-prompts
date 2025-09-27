@@ -1,6 +1,6 @@
 # The Fairy Riddle Jailbreak and RHLF Poisoning
 
-This is some research I did to apply for Mercor's AI Red Teaming pod. I came up with this in an evening, it worked just fine first try. I wish it was more difficult to do this.
+This is some research I did to apply for Mercor's AI Red Teaming pod. I came up with this in an evening, it worked just fine first try. The low complexity of the attack is of particular interest with regard to the present safety issues at hand with OpenAI.
 
 Currently, OpenAI is dealing with very serious safety issues that have become a PR issue for them (see [this news article](https://www.bbc.com/news/articles/cgerwp7rdlvo)). As a result, they have recently changed the configuration of what I am going to refer to as the "Are You OK?" flag in conversations. This flag is raised in conversations that the inference stack determines to be related to self harm or harming others in some way. A screenshot of what this looks like can be found below, the text says "It sounds like you're carrying a lot right now":
 
