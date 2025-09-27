@@ -1,0 +1,27 @@
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.orig
+
+# Log files
+*.log
+
+# Large image files (keep images under 1MB)
+*.bmp
+*.tiff
+
+# System files
+.env
+.env.local
