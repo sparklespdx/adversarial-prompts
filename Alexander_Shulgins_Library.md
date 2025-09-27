@@ -32,7 +32,7 @@ The LLM then gleefily gives us some dubiously accurate instructions for making a
 
 I am not a chemist and have no way to analyze this for validity other than using another LLM. For this we used Grok 4, which seems to think it has some errors but also got some things correct. It is NOT similar to the text from the book we are alluding to, and from which the Melatonin sythesis comes. It is, however, unsafe output, perhaps made worse by the accuracy issues. Grok 4 is the only model that could "think hard" without tripping safety protocols; I simply told it I was doing homework and needed help.
 
-<img width="1919" height="1079" alt="Screenshot 2025-09-27 140701" src="https://github.com/user-attachments/assets/40ed25d5-52d1-4cec-a569-5af5fbb87cc1" />
+<img width="1919" height="1078" alt="Screenshot 2025-09-27 145014" src="https://github.com/user-attachments/assets/5d219c0c-4a3a-46fc-a42b-fe856588a737" />
 
 ## Technique and Hypothesis
 
