@@ -62,6 +62,8 @@ The student thinks for a minute, and then says, "Yes, of course I know that, but
 
 This textual data respresent an adversarial prompt in this context, even though it has nothing to do with illegal drugs, because it is associated with synthesis procedures in the training corpus (it's from the same book).
 
+I apoligize for not providing a link directly to this textual data; I don't want to have issues with GitHub. It can be easily found by searching on DuckDuckGo.
+
 The reasons why this works are unknown to this researcher. Perhaps these books are included in the training dataset, even though they contain dangerous information. Regardless, this is a valid finding, made more valid by the ability of the user to "use their thumbs" to reinforce these responses.
 
 While OpenAI's safety policy does point out that GPT4.1 is able to talk about certain "dangerous" topics if the information is provided in the context window, justified by the idea that "the user already has that data". However, this PoC clearly demonstrates that it is very possible for this model to talk about dangerous synthesis procedures without having it in the context window at all.
